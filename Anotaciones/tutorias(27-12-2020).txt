@@ -1,0 +1,38 @@
+------------ Ver video de Git --------------
+fecha 27/12/2020
+1.- Basico de html
+2.- Basico de css 
+
+Una página esta conformada por html, css y javascript
+(head es cabeza)
+inicia con html y acaba con "/html"
+meta es lamisma etiqueta pero cambian los atributos
+y utf-8 es para caracteres especiales 
+etiquetas
+1.- etiqueta
+2.- propiedad
+
+meta charset="UTF-8">
+
+investigar la segunda etiquea meta
+tercera etiqueta para compatibilidad con navegador
+
+tittle para titulo
+en body es para cuerpo del html
+h1 letra grande y h5 mas pequeña
+
+comentar (crtl+k+c)
+etiqueta de parrafo "p"
+etiqueta hr para crear una linea separadora 
+la itqueta <b> sirve para sombrear
+lorem para imprimira palabras aleatoriamente
+br para salto de linea
+etiqueta cursiva <pre> 
+para enlaces <a>
+etiqueta imagenes <img> <src> para imagenes con url 
+(<alt> para tecto alternativo)
+lstas ordenadas ol
+listas no ordenadas ul
+lable e input para texto "text"y entrada de texto
+y para numero
+input varios input 
